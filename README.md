@@ -54,6 +54,8 @@ Built with **Bootstrap 5 Grid** system for responsiveness:
 - Mobile-first layout tested across breakpoints
 
 ---
+## 📂 Folder Structure
+
 📁 js-assignment-01-quiz-runner/
 ├── 📄 index.html
 ├── 📄 style.css
@@ -62,5 +64,5 @@ Built with **Bootstrap 5 Grid** system for responsiveness:
 ---
 Made by Amna Mehmood | SMIT Web Development Student
 
-## 📂 Folder Structure
+
 
