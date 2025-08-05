@@ -7,8 +7,8 @@ It allows users to select from **10 beginner-level JavaScript questions**, input
 
 ## 🌐 Live Project
 
-- 🔗 [View Live on Netlify](https://js-quiz-runner.netlify.app/) <!-- Replace with your actual link -->
-- 🔗 [GitHub Repository](https://github.com/Amna7877/js-assignment-01-quiz-runner) <!-- Replace with your GitHub repo -->
+- 🔗 [View Live on Netlify](https://js-quiz-runner.netlify.app/)
+- 🔗 [GitHub Repository](https://github.com/Amna7877/JS-Assignment-01-Quiz-Runner) 
 
 ---
 
